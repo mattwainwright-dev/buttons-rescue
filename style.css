@@ -22,7 +22,7 @@ body { background: #fff; font-family: "Nunito", sans-serif; }
 .urgent {
   border-left: 0.5rem solid #b42318;
   background: #fff0ed;
-  padding: 0.75rem 1rem;
+  padding: 0.75rem;
 }
 
 .credits { margin-top: 2rem; color: #5f554d; }
